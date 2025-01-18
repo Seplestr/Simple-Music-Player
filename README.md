@@ -47,16 +47,11 @@
 - Volume control
 - Shuffle and repeat modes
 - Equalizer functionality
-- Themes and skins
-- Mobile versions (iOS & Android)
+- Multi-Audio Formats Support and many more!
 
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to fork the repository, make improvements, and submit pull requests.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🎶 Final Note
 
@@ -65,5 +60,5 @@ Harmony Hub is more than just a music player; it's your personal concert hall. E
 ---
 
 <p align="center">
-Made with ❤️ by music lovers, for music lovers
+Made with ❤️ by music lover, for music lovers
 </p>
