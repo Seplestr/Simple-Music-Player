@@ -51,13 +51,7 @@
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to fork the repository, make improvements, and submit pull requests.
-
-## 🎶 Final Note
-
-Harmony Hub is more than just a music player; it's your personal concert hall. Enjoy the simplicity, revel in the clarity, and let the music flow!
-
----
-
+------------------------------------------------------------------------------------------------------------
 <p align="center">
 Made with ❤️ by Seplestr
 </p>
