@@ -59,5 +59,5 @@ Harmony Hub is more than just a music player; it's your personal concert hall. E
 ---
 
 <p align="center">
-Made with ❤️ by music lover, for music lovers
+Made with ❤️ by music Seplestr Seplestr
 </p>
