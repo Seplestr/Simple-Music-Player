@@ -1,6 +1,6 @@
 # 🎵 Sleek & Simple Music Player
 
-> Elevate your listening experience with Harmony Hub - where simplicity meets sophistication in audio playback.
+> Elevate your listening experience where simplicity meets sophistication in audio playback.
 
 [![Java Version](https://img.shields.io/badge/Java-11%2B-orange)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 [![JavaFX Version](https://img.shields.io/badge/JavaFX-15.0.1-blue)](https://openjfx.io/)
