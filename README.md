@@ -50,7 +50,7 @@
 
 ## 🤝 Contributing
 
-We welcome contributions! Feel free to fork the repository, make improvements, and submit pull requests.
+I welcome contributions! Feel free to fork the repository, make improvements, and submit pull requests.
 ------------------------------------------------------------------------------------------------------------
 <p align="center">
 Made with ❤️ by Seplestr
