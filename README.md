@@ -1,4 +1,4 @@
-# 🎵 Harmony Hub: Sleek & Simple Music Player
+# 🎵 Sleek & Simple Music Player
 
 > Elevate your listening experience with Harmony Hub - where simplicity meets sophistication in audio playback.
 
@@ -16,15 +16,15 @@
 
 ## 🚀 Quick Start
 
-1. **Clone the Harmony:**
-   git clone https://github.com/yourusername/harmony-hub.git
+1. **Clone the Player:**
+   git clone [https://github.com/Seplestr/Simple-Music-Player]
    
 2. **Set the Stage:**
 - Ensure Java 11+ is installed
 - Configure JavaFX in your development environment
 
 3. **Let the Music Play:**
-- Run `HarmonyHubApp.java`
+- Run `SimpleMusicPlayer.java`
 - Click "Add Song" to build your playlist
 - Hit Play and enjoy your personalized symphony!
 
